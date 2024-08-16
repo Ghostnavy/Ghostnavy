@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Cybersecurity, AI, quantum
 - 📫 How to reach me ghostnavy.wb@gmail.com
 - 😄 Pronouns: GhostNavy
-- ⚡ Fun fact: Where Elete Hackers becomes Admerials.
+- ⚡ Fun fact: Where Elite Hackers becomes Admerials.
 
 <!---
 Ghostnavy/Ghostnavy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
